@@ -36,3 +36,7 @@ TAGS
 .*.swp
 
 EventStore.Net
+
+target/
+.history
+EventStoreMessages.java
